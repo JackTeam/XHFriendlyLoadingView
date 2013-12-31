@@ -5,4 +5,4 @@ XHFriendlyLoadingView
 
 
 ## 如下图
-![image](https://github.com/JackTeam/XHFriendlyLoadingView/raw/master/Screenshots/XHFriendlyLoadingView)
+![image](https://github.com/JackTeam/XHFriendlyLoadingView/raw/master/Screenshots/XHFriendlyLoadingView.gif)
