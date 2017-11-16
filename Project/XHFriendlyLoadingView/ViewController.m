@@ -6,6 +6,10 @@
 //  Copyright (c) 2013年 曾宪华 开发团队(http://iyilunba.com ) 本人QQ:543413507. All rights reserved.
 //
 
+/**
+ * 克隆某一项目在github网站上面的仓库，从而在本地建立一个该项目的本地仓库，然后对本地仓库里面的代码进行修改，修改完以后利用Xcode上面的"Source Control"里面的"Commit"把修改完的代码提交到本地的仓库中，然后利用"Push"把修改完的代码提交到github网站上面的该项目的远程仓库中，然后在github网站上面点击"Pull requests"进入到新的页面，在新的页面中点击绿色的按钮"New pull request"，创建
+ */
+
 #import "ViewController.h"
 #import "XHFriendlyLoadingView.h"
 
